@@ -1,0 +1,20 @@
+body {
+background-image: url(img/bkg.png);
+background-color: black;
+background-size: 20px;
+background-attachment: fixed;
+color: orange;
+}
+
+.main {
+    margin-left: 160px;
+    padding: 0px 10px;
+}
+
+p {
+text-align: center;
+font-size: 24px;}
+
+h1 {text-align: center;}
+
+h2 {text-align: center;}
